@@ -1,5 +1,7 @@
 # TRabajo grupal
 
+[Explicación de los datos](https://natural-resources.canada.ca/energy-efficiency/transportation-alternative-fuels/personal-vehicles/choosing-right-vehicle/buying-electric-vehicle/understanding-the-tables/21383)
+
 ## Data Dictionary
 
 1. Model year  text
@@ -17,8 +19,3 @@
 13. CO2 emissions (g/km)  text
 14. CO2 rating  text
 15. Smog rating text
-
-
-pip install ipywidgets
-jupyter nbextension enable --py widgetsnbextension
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
