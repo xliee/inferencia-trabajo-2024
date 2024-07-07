@@ -1,5 +1,7 @@
 # TRabajo grupal
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xliee/inferencia-trabajo-2024/blob/main/trabajo.ipynb)
+
 [Explicación de los datos](https://natural-resources.canada.ca/energy-efficiency/transportation-alternative-fuels/personal-vehicles/choosing-right-vehicle/buying-electric-vehicle/understanding-the-tables/21383)
 
 ## Data Dictionary
